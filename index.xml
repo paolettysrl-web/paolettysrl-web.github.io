@@ -2,7 +2,7 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content=device-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paoletty News – Feed Ufficiale</title>
     <style>
         body {
@@ -50,10 +50,10 @@
 
         <h1>Paoletty News – Feed Ufficiale</h1>
 
-        <p>Questa è la pagina istituzionale del feed RSS ufficiale Paoletty, utilizzato per la diffusione degli articoli finanziari, analisi e contenuti strategici secondo il metodo Financial Vision®.</p>
+        <p>Questa è la pagina istituzionale del feed RSS ufficiale Paoletty, utilizzata per la diffusione degli articoli finanziari, analisi e contenuti strategici secondo il metodo Financial Vision®.</p>
 
         <p>
-            👉 <a href="feed.xml">Clicca qui per aprire il feed ufficiale in formato RSS</a>
+            👉 <a href="feed.xml">Apri il feed RSS ufficiale</a>
         </p>
 
         <p style="margin-top:40px; font-size:13px; opacity:0.8;">
