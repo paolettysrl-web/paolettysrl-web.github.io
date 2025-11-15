@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paoletty – Blog Finanza e Strategia</title>
+    <link>https://www.paoletty.com/blog</link>
+    <description>Articoli Paoletty su finanza d'impresa, finanza agevolata, pianificazione e metodo Financial Vision®.</description>
+    <language>it-it</language>
+    <atom:link href="https://www.paoletty.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2025 09:30:00 +0100</lastBuildDate>
+
+    <!-- ARTICOLO 1 – Brevetti+ 2025 -->
+    <item>
+      <title>🇮🇹 Brevetti+ 2025: domande al via il 20 novembre – 20 milioni per la valorizzazione dei brevetti PMI</title>
+      <link>https://www.paoletty.com/blog-detail/post/269438/🇮🇹-brevetti+-2025:-domande-al-via-il-20-novembre-–-20-milioni-per-la-valorizzazione-dei-brevetti-pmi</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/269438/🇮🇹-brevetti+-2025:-domande-al-via-il-20-novembre-–-20-milioni-per-la-valorizzazione-dei-brevetti-pmi</guid>
+      <pubDate>Fri, 14 Nov 2025 09:23:00 +0100</pubDate>
+      <description><![CDATA[
+      Analisi del bando Brevetti+ 2025, con dotazione di 20 milioni di euro per sostenere le PMI nella valorizzazione dei propri brevetti, attraverso contributi fino all’80% delle spese ammissibili.
+      ]]></description>
+      <author>info@paoletty.com (Paoletty S.r.l.)</author>
+    </item>
+
+    <!-- ARTICOLO 2 – Fondo Transizione Industriale – PNRR 2025 -->
+    <item>
+      <title>🇮🇹 Fondo per il Sostegno alla Transizione Industriale – PNRR 2025</title>
+      <link>https://www.paoletty.com/blog-detail/post/268833/🇮🇹fondo-per-il-sostegno-alla-transizione-industriale-–-pnrr-2025</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/268833/🇮🇹fondo-per-il-sostegno-alla-transizione-industriale-–-pnrr-2025</guid>
+      <pubDate>Thu, 13 Nov 2025 09:23:00 +0100</pubDate>
+      <description><![CDATA[
+      Approfondimento sul Fondo per il Sostegno alla Transizione Industriale – PNRR 2025, misura da oltre 134 milioni di euro per investimenti in efficienza energetica, sostenibilità e transizione produttiva del sistema manifatturiero.
+      ]]></description>
+      <author>info@paoletty.com (Paoletty S.r.l.)</author>
+    </item>
+
+    <!-- ARTICOLO 3 – Il Sabato della Visione -->
+    <item>
+      <title>Il Sabato della Visione® – Misurare non è giudicare: la finanza come strumento di consapevolezza</title>
+      <link>https://www.paoletty.com/blog-detail/post/269428/il-sabato-della-visione®-–-paoletty</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/269428/il-sabato-della-visione®-–-paoletty</guid>
+      <pubDate>Sat, 08 Nov 2025 10:00:00 +0100</pubDate>
+      <description><![CDATA[
+      Riflessione sul ruolo dell’analisi economico-finanziaria come strumento di consapevolezza e non di giudizio, in coerenza con il metodo Financial Vision® Paoletty e con la rubrica “Il Sabato della Visione®”.
+      ]]></description>
+      <author>info@paoletty.com (Paoletty S.r.l.)</author>
+    </item>
+
+  </channel>
+</rss>
