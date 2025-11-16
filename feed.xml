@@ -1,48 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
-    <title>Paoletty – Blog Finanza e Strategia</title>
+    <title>PAOLETTY – Financial Vision® Blog</title>
     <link>https://www.paoletty.com/blog</link>
-    <description>Articoli Paoletty su finanza d'impresa, finanza agevolata, pianificazione e metodo Financial Vision®.</description>
-    <language>it-it</language>
-    <atom:link href="https://www.paoletty.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 15 Nov 2025 09:30:00 +0100</lastBuildDate>
+    <description>Blog ufficiale PAOLETTY S.r.l. – Financial Vision®, Local Vision®, Plus Alliance®. Misurare per evolvere.</description>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 15 Nov 2025 11:51:00 +0100</lastBuildDate>
+    <generator>Paoletty custom RSS via GitHub Pages</generator>
 
-    <!-- ARTICOLO 1 – Brevetti+ 2025 -->
     <item>
-      <title>🇮🇹 Brevetti+ 2025: domande al via il 20 novembre – 20 milioni per la valorizzazione dei brevetti PMI</title>
-      <link>https://www.paoletty.com/blog-detail/post/269438/🇮🇹-brevetti+-2025:-domande-al-via-il-20-novembre-–-20-milioni-per-la-valorizzazione-dei-brevetti-pmi</link>
-      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/269438/🇮🇹-brevetti+-2025:-domande-al-via-il-20-novembre-–-20-milioni-per-la-valorizzazione-dei-brevetti-pmi</guid>
-      <pubDate>Fri, 14 Nov 2025 09:23:00 +0100</pubDate>
-      <description><![CDATA[
-      Analisi del bando Brevetti+ 2025, con dotazione di 20 milioni di euro per sostenere le PMI nella valorizzazione dei propri brevetti, attraverso contributi fino all’80% delle spese ammissibili.
-      ]]></description>
-      <author>info@paoletty.com (Paoletty S.r.l.)</author>
+      <title>Brevetti+ 2025: domande al via il 20 novembre – 20 milioni per la valorizzazione dei brevetti PMI</title>
+      <link>https://www.paoletty.com/blog-detail/post/269438/-brevetti%2B-2025%3A-domande-al-via-il-20-novembre-%E2%80%93-20-milioni-per-la-valorizzazione-dei-brevetti-pmi</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/269438/-brevetti%2B-2025%3A-domande-al-via-il-20-novembre-%E2%80%93-20-milioni-per-la-valorizzazione-dei-brevetti-pmi</guid>
+      <pubDate>Sat, 15 Nov 2025 11:51:00 +0100</pubDate>
+      <description>Bando Brevetti+ 2025 per la valorizzazione dei brevetti delle PMI.</description>
     </item>
 
-    <!-- ARTICOLO 2 – Fondo Transizione Industriale – PNRR 2025 -->
     <item>
-      <title>🇮🇹 Fondo per il Sostegno alla Transizione Industriale – PNRR 2025</title>
-      <link>https://www.paoletty.com/blog-detail/post/268833/🇮🇹fondo-per-il-sostegno-alla-transizione-industriale-–-pnrr-2025</link>
-      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/268833/🇮🇹fondo-per-il-sostegno-alla-transizione-industriale-–-pnrr-2025</guid>
+      <title>IL SABATO DELLA VISIONE® – PAOLETTY</title>
+      <link>https://www.paoletty.com/blog-detail/post/269428/il-sabato-della-visione%C2%AE-%E2%80%93-paoletty</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/269428/il-sabato-della-visione%C2%AE-%E2%80%93-paoletty</guid>
+      <pubDate>Sat, 15 Nov 2025 08:07:00 +0100</pubDate>
+      <description>Approfondimento sulla misurazione finanziaria come strumento di consapevolezza.</description>
+    </item>
+
+    <item>
+      <title>Local Vision® – La metodologia per trasformare i territori in sistemi economici competitivi</title>
+      <link>https://www.paoletty.com/blog-detail/post/269420/local-vision%C2%AE-%E2%80%93-la-metodologia-per-trasformare-i-territori-in-sistemi-economici-competitivi</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/269420/local-vision%C2%AE-%E2%80%93-la-metodologia-per-trasformare-i-territori-in-sistemi-economici-competitivi</guid>
+      <pubDate>Fri, 14 Nov 2025 18:23:00 +0100</pubDate>
+      <description>Il modello Local Vision® per la pianificazione e la governance territoriale.</description>
+    </item>
+
+    <item>
+      <title>Fondo per il Sostegno alla Transizione Industriale – PNRR 2025</title>
+      <link>https://www.paoletty.com/blog-detail/post/268833/fondo-per-il-sostegno-alla-transizione-industriale-%E2%80%93-pnrr-2025</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/268833/fondo-per-il-sostegno-alla-transizione-industriale-%E2%80%93-pnrr-2025</guid>
       <pubDate>Thu, 13 Nov 2025 09:23:00 +0100</pubDate>
-      <description><![CDATA[
-      Approfondimento sul Fondo per il Sostegno alla Transizione Industriale – PNRR 2025, misura da oltre 134 milioni di euro per investimenti in efficienza energetica, sostenibilità e transizione produttiva del sistema manifatturiero.
-      ]]></description>
-      <author>info@paoletty.com (Paoletty S.r.l.)</author>
+      <description>Analisi del Fondo per il sostegno alla transizione industriale nel quadro PNRR.</description>
     </item>
 
-    <!-- ARTICOLO 3 – Il Sabato della Visione -->
     <item>
-      <title>Il Sabato della Visione® – Misurare non è giudicare: la finanza come strumento di consapevolezza</title>
-      <link>https://www.paoletty.com/blog-detail/post/269428/il-sabato-della-visione®-–-paoletty</link>
-      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/269428/il-sabato-della-visione®-–-paoletty</guid>
-      <pubDate>Sat, 08 Nov 2025 10:00:00 +0100</pubDate>
-      <description><![CDATA[
-      Riflessione sul ruolo dell’analisi economico-finanziaria come strumento di consapevolezza e non di giudizio, in coerenza con il metodo Financial Vision® Paoletty e con la rubrica “Il Sabato della Visione®”.
-      ]]></description>
-      <author>info@paoletty.com (Paoletty S.r.l.)</author>
+      <title>Local Vision® / Analisi Territoriali: Calabria 2025: un fallimento sistemico. Il disallineamento strutturale tra risorse, governance e capacità di attuazione</title>
+      <link>https://www.paoletty.com/blog-detail/post/268261/local-vision%C2%AE-/-analisi-territoriali%3A-calabria-2025%3A-un-fallimento-sistemico--il-disallineamento-strutturale-tra-risorse-governance-e-capacit%C3%A0-di-attuazione</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/268261/local-vision%C2%AE-/-analisi-territoriali%3A-calabria-2025%3A-un-fallimento-sistemico--il-disallineamento-strutturale-tra-risorse-governance-e-capacit%C3%A0-di-attuazione</guid>
+      <pubDate>Tue, 11 Nov 2025 19:28:00 +0100</pubDate>
+      <description>Analisi economico-territoriale sulla Calabria 2025 in chiave Local Vision®.</description>
+    </item>
+
+    <item>
+      <title>ABC Report® – L’analisi che misura la verità economico-finanziaria dell’impresa</title>
+      <link>https://www.paoletty.com/blog-detail/post/267885/%C2%A0abc-report%C2%AE-%E2%80%93-l%E2%80%99analisi-che-misura-la-verit%C3%A0-economico-finanziaria-dell%E2%80%99impresa</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/267885/%C2%A0abc-report%C2%AE-%E2%80%93-l%E2%80%99analisi-che-misura-la-verit%C3%A0-economico-finanziaria-dell%E2%80%99impresa</guid>
+      <pubDate>Tue, 11 Nov 2025 08:51:00 +0100</pubDate>
+      <description>ABC Report® come strumento per leggere la verità dei numeri d’impresa.</description>
+    </item>
+
+    <item>
+      <title>Financing – Il credito non si chiede, si costruisce</title>
+      <link>https://www.paoletty.com/blog-detail/post/256675/-financing-%E2%80%93-il-credito-non-si-chiede-si-costruisce</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/256675/-financing-%E2%80%93-il-credito-non-si-chiede-si-costruisce</guid>
+      <pubDate>Mon, 10 Nov 2025 14:45:00 +0100</pubDate>
+      <description>Il metodo Financing Paoletty per costruire il merito creditizio aziendale.</description>
+    </item>
+
+    <item>
+      <title>Futura+ – Competenze digitali per la crescita e l’occupazione femminile</title>
+      <link>https://www.paoletty.com/blog-detail/post/256674/-futura%2B-%E2%80%93-competenze-digitali-per-la-crescita-e-l%E2%80%99occupazione-femminile</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/256674/-futura%2B-%E2%80%93-competenze-digitali-per-la-crescita-e-l%E2%80%99occupazione-femminile</guid>
+      <pubDate>Mon, 10 Nov 2025 14:41:00 +0100</pubDate>
+      <description>Analisi del bando Futura+ e delle opportunità per la formazione digitale femminile.</description>
+    </item>
+
+    <item>
+      <title>Nuove iniziative d’investimento: dal metodo alla visione. Come pianificare, misurare e governare una scelta strategica</title>
+      <link>https://www.paoletty.com/blog-detail/post/256427/nuove-iniziative-d%E2%80%99investimento%3A-dal-metodo-alla-visione-come-pianificare-misurare-e-governare-una-scelta-strategica</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/256427/nuove-iniziative-d%E2%80%99investimento%3A-dal-metodo-alla-visione-come-pianificare-misurare-e-governare-una-scelta-strategica</guid>
+      <pubDate>Sun, 09 Nov 2025 22:17:00 +0100</pubDate>
+      <description>Metodo Paoletty per progettare e governare nuove iniziative d’investimento.</description>
+    </item>
+
+    <item>
+      <title>ABC Report® – La fotografia che definisce il valore reale dell’impresa</title>
+      <link>https://www.paoletty.com/blog-detail/post/256302/-abc-report%C2%AE--la-fotografia-che-definisce-il-valore-reale-dell%E2%80%99impresa</link>
+      <guid isPermaLink="true">https://www.paoletty.com/blog-detail/post/256302/-abc-report%C2%AE--la-fotografia-che-definisce-il-valore-reale-dell%E2%80%99impresa</guid>
+      <pubDate>Fri, 07 Nov 2025 12:02:00 +0100</pubDate>
+      <description>ABC Report® come fotografia del valore reale dell’azienda a fine anno.</description>
     </item>
 
   </channel>
